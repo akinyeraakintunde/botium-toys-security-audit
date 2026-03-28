@@ -21,7 +21,73 @@ The audit evaluates the organization's current security posture, identifies risk
 - Weak compliance with industry standards
 - No proper access control or data protection mechanisms
 
+
+## 🚀 Impact & Business Value
+
+This audit simulates a real-world security assessment and demonstrates how identifying control gaps can:
+
+- Reduce risk exposure from **high (8/10) to moderate/low**
+- Prevent potential regulatory fines (GDPR, PCI DSS)
+- Improve data protection for customers and employees
+- Strengthen organizational resilience and business continuity
+
+The recommendations provided can be directly applied to small-to-medium enterprises (SMEs) scaling their digital operations.
 ---
+
+## 🧭 Methodology
+
+This audit was conducted using the NIST Cybersecurity Framework (CSF):
+
+1. **Identify** – Reviewed assets, risks, and scope
+2. **Protect** – Evaluated existing safeguards
+3. **Detect** – Assessed monitoring capabilities
+4. **Respond** – Reviewed incident handling readiness
+5. **Recover** – Evaluated recovery and continuity plans
+
+Controls were mapped against compliance standards including:
+- PCI DSS
+- GDPR
+- SOC principles
+
+## ⚠️ Risk Rating Approach
+
+Risk levels were determined based on:
+
+- Likelihood of exploitation
+- Impact on business operations
+- Sensitivity of affected assets
+
+Final Risk Score: **8/10 (High Risk)**
+
+Key drivers:
+- Lack of access control
+- Absence of encryption
+- Weak monitoring and detection capabilities
+
+## 🌍 Why This Project Matters
+
+As organizations expand digitally, security audits become critical to:
+
+- Ensure regulatory compliance
+- Protect customer data
+- Prevent financial and reputational damage
+
+This project demonstrates practical, job-ready cybersecurity skills aligned with real industry expectations.
+
+## 🌍 Why This Project Matters
+
+As organizations expand digitally, security audits become critical to:
+
+- Ensure regulatory compliance
+- Protect customer data
+- Prevent financial and reputational damage
+
+This project demonstrates practical, job-ready cybersecurity skills aligned with real industry expectations.
+
+## 📊 Audit Flow
+
+Scope → Risk Assessment → Controls Review → Compliance Check → Recommendations
+
 
 ## 🛠️ Controls Assessment Summary
 
